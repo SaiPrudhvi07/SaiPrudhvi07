@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saiprudhvi07" alt="saiprudhvi07" /></a> </p>
 
-- 🌱 I’m currently learning **Data Anlaysis**
+- 🌱 I’m currently learning **Data Analysis**
 
 - I'm looking to collaborate on **Data Analysis and Python and Web developer Projects**
 
